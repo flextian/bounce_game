@@ -1,0 +1,12 @@
+body {
+background: blue
+}
+
+#canvasdiv {
+text-align:center;
+}
+
+canvas {
+border: 1px solid #000000;
+background: white;
+}
